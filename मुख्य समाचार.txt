@@ -1,0 +1,62 @@
+मुख्य समाचार
+समसामयिक
+लोकसेवा
+सार्वजनिक प्रशासन
+स्वास्थ्य/जीवनशैली
+गुड न्यूज
+अर्थ / वाणिज्य
+
+
+अनलाइन संचारमाध्यमलाई पनि लोककल्याणकारी विज्ञापन दिन्छौं : संचारमन्त्री
+
+मूल्यवृद्धिको विरोधमा थाल ठटाउँदै सडकमा उत्रियो जसपा(फाेटाे फिचर)
+
+
+सूचना विभागमा दर्ता नं. : २१०६/०७७/०७८
+lazimpat, Kathmandu, Nepal
+
+
+
++977 9851313277
+sales@nepalwatch.com
+Admin: info@nepalwatch.com
+News: news@nepalwatch.com
+
+
+के नेपालमा दिइएको कोभिशिल्ड प्रभावकारी छ ? यसाे भन्छन् विज्ञहरू [भिडियो]
+सरस्वती मन्दिरको पर्खालमा ‘कखरा’ लेखेर अक्षराम्भ [भिडियाे]
+
+
+
+<img width="1354" height="396" src="https://i2.wp.com/www.nepalwatch.com/wp-content/uploads/2021/02/NTA-final.gif?fit=1354%2C396&amp;ssl=1" class="image wp-image-10191 attachment-full size-full jetpack-lazy-image jetpack-lazy-image--handled" alt="" loading="eager" style="max-width: 100%; height: auto;" data-lazy-loaded="1">
+
+
+
+<div class="modal-content">
+<div class="modal-body">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">×</span>
+</button>
+<div class="m-xl-4 m-3">
+<ul class="list-checked list-circle list-primary list-weight-semi-bold font-weight-semi-bold my-4">
+<li>JavaScript, Node.js &amp; Spring Boot</li>
+<li>In-depth tutorials</li>
+<li>Super-handy protips</li>
+<li>Cool stuff around the web</li>
+<li>1-click unsubscribe</li>
+<li>No spam, free-forever!</li>
+</ul>
+<div class="clearfix"></div>
+<div class="row mt-4">
+<div class="col-12">
+<div class="form-group">
+<input id="popup-email" name="email" type="email" class="form-control" placeholder="Your Email Address" aria-label="Your Email Address" aria-describedby="popup-newsletter" required="">
+</div>
+<button class="btn btn-primary btn-block mt-2 btn-newsletter" id="popup-newsletter" type="button">
+Subscribe
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
